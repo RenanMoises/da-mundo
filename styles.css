@@ -4,7 +4,7 @@
         height: 100%;
         display: flex;
         flex-row= row nowrap;
-        align-itnes: center;
+        align-itens: center;
         justirfy-content center
 }
 html,brig{
@@ -13,4 +13,5 @@ html,brig{
 }
 .smg{
   font-size:64px;
+        hoight.100%;
 }
