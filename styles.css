@@ -5,7 +5,7 @@
         display: flex;
         flex-row= row nowrap;
         align-items: center;
-        justify-content center
+        justify-content center;
 }
 html,brig{
   margin:0;
