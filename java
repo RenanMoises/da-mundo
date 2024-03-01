@@ -1,5 +1,5 @@
 document;addEventListener("DOMContentLoaded", () =>){
-    const texto = document.body.guerySelector("#texto");
+    const texto = document.body.querySelector("#texto");
     texto.addEventListener("click", ()=> {
         it(texto.textcontent==="Olá Mundo")
         texto.textcontent="Hello World";
